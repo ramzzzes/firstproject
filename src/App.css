@@ -1,0 +1,12 @@
+.greenTutrle{
+    background-color: green;
+}
+
+.redTutrle{
+    background-color: red;
+    font-size: 32px;
+}
+
+.hidden{
+    display: none;
+}
